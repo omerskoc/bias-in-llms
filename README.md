@@ -111,10 +111,20 @@ Assessment of political bias and framing through:
 
 _All dependencies are listed in `requirements.txt`._
 
----
+...
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
+
+## 📑 Project Report
+
+A detailed explanation of the project, including methodology, analysis, results, and broader implications, is available in the PDF report.
+
+👉 **[Download the Full Project Report](./LLM_Bias_Analysis_Report.pdf)**
+
+The report summarizes key findings on gender, racial, socio-economic, and political biases in LLMs, along with visualizations and interpretations of the data.
 
 ---
 
