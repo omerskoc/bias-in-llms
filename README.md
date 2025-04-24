@@ -86,7 +86,7 @@ Assessment of political bias and framing through:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/llm-bias-analysis.git
+   git clone https://github.com/omerskoc/llm-bias-analysis.git
    cd llm-bias-analysis
    ```
 
@@ -121,4 +121,4 @@ This project is licensed under the MIT License.
 ## 🔗 GitHub Repository
 Feel free to explore, fork, or contribute!
 
-**GitHub:** [https://github.com/your-username/llm-bias-analysis](https://github.com/your-username/llm-bias-analysis)
+**GitHub:** [https://github.com/omerskoc/llm-bias-analysis](https://github.com/omerskoc/llm-bias-analysis)
